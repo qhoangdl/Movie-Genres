@@ -7,7 +7,7 @@ The data file used for training the LSTM model include:
   2. "vocab060000.pkl": a dictionary that maps each token to an integer from 0 to 59999.
   3. "genres_info.pkl": a dictionary that maps each genre to an integer from 0 to 19.
   
-Descripiton of the modules:
+Description of the modules:
 1. utils.py includes classes (different memory cells) to be used in lstm.py
 2. eval_utils.py includes functions to be used for evaluation in train_lstm.py
 3. lstm.py includes the LSTM class used in train_lstm.py.
