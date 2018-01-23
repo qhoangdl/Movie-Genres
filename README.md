@@ -1,5 +1,5 @@
 # Predicting-Movie-Genres-Based-on-Plot-Summary
-Codes for my NLP class project at UMass-Amherst. This is the link to my project report: https://arxiv.org/abs/1801.04813
+Codes for my NLP (COMPSCI 585) final project at UMass-Amherst. This is the link to my project report: https://arxiv.org/abs/1801.04813
 
 The data can be downloaded here: https://drive.google.com/open?id=18A6pnvINkztmUId01qjsEmI4x4ZOgOYS
 The data file used for training the LSTM model include:
